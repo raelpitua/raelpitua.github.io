@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raelpitua.github.io/sitemap.html.gz
+Sitemap: https://raelpitua.github.io/app/sitemap.html.gz
+Sitemap: https://raelpitua.github.io/assets/sitemap.html.gz
+Sitemap: https://raelpitua.github.io/css/sitemap.html.gz
+Sitemap: https://raelpitua.github.io/includes/sitemap.html.gz
+Sitemap: https://raelpitua.github.io/item/sitemap.html.gz
+Sitemap: https://raelpitua.github.io/src/sitemap.html.gz
